@@ -1,4 +1,4 @@
-# Ideal LLM Retrieval System
+# Organization-Specific LLM Application 
 
 ## Overview
 The Ideal LLM Retrieval System is an intelligent data processing and retrieval system that uses Large Language Model (LLM) capabilities to take various types of user inputs (text, data, URLs) and provide accurate answers based on those inputs. By scraping or importing the provided data, chunking and embedding it, the system can efficiently store and retrieve relevant information to answer user questions.
